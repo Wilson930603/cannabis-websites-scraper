@@ -1,0 +1,7 @@
+Scrapy~=2.5.0
+brotli~=1.0.9
+demjson~=2.2.4
+usaddress~=0.5.10
+requests-toolbelt~=0.9.1
+js2py~=0.71
+numpy~=1.21.1

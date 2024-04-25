@@ -1,0 +1,5 @@
+Scrapy~=2.4.1
+brotli~=1.0.9
+selenium-wire~=4.2.4
+undetected-chromedriver~=2.2.1
+Tenacity~=7.0.0
